@@ -16,3 +16,6 @@
 
 ## Resolving Conflicts
 
+## Using Git Via Commandline
+
+Learning to use git via commandline will help you to understand things better
