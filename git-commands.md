@@ -1,7 +1,7 @@
 # Commonly Used Git Commands
 
 ## Cloning an existing Repository
-`` cmd
+``` cmd
 git clone <repo_url>
 ```
 
