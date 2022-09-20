@@ -4,7 +4,7 @@
 
 ## Agenda 
 1. What is the purpose of Source Versioning System
-2.  What is a Distributed Versionoing System 
+2.  What is a Distributed Versioning System 
 3.  Commonly used git commands
  
  - clone
