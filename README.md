@@ -1,10 +1,11 @@
 # Git : Tutorials 
- 
-## What is the purpose of Source Versioning System
 
-## What is a Distributed Versionoing System 
 
- ## Commonly used git commands
+
+## Agenda 
+1. What is the purpose of Source Versioning System
+2.  What is a Distributed Versionoing System 
+3.  Commonly used git commands
  
  - clone
  - add
